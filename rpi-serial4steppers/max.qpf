@@ -18,13 +18,14 @@
 #
 # Quartus II 64-Bit
 # Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-# Date created = 19:25:10  April 08, 2022
+# Date created = 19:49:13  January 27, 2023
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "13.0"
-DATE = "19:25:10  April 08, 2022"
+DATE = "19:49:13  January 27, 2023"
 
 # Revisions
 
+PROJECT_REVISION = "max-orangepi-pc2"
 PROJECT_REVISION = "max"
