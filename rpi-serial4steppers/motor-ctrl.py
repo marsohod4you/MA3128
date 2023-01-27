@@ -73,7 +73,8 @@ def read_sliders():
 
 port = serial.Serial()
 port.baudrate=115200
-port.port='/dev/ttyAMA0'
+port.port='/dev/ttyAMA0' #Raspberry Pi3
+#port.port='/dev/ttyS1'  #OrangePi PC2 uses UART1
 port.bytesize=8
 port.parity='N'
 port.stopbits=1
